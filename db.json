@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {
+      "id": "2",
+      "description": "Power Water"
+    },
+    {
+      "id": "3",
+      "description": "Rent"
+    },
+    {
+      "id": "64f75f7c-31e2-4eeb-8aec-e68c07338221",
+      "description": "dsdfsdf"
+    }
+  ],
+  "values": [
+    {
+      "id": "2",
+      "value": 20,
+      "isExpense": true
+    },
+    {
+      "id": "3",
+      "value": 300,
+      "isExpense": true
+    },
+    {
+      "id": "64f75f7c-31e2-4eeb-8aec-e68c07338221",
+      "isExpense": false,
+      "value": "4543"
+    }
+  ]
+}
